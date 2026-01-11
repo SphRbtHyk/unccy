@@ -1,0 +1,5 @@
+model/*
+venv
+test.py
+unccy/**
+.DS_Store
