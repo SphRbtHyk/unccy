@@ -33,9 +33,6 @@ This parser was trained on three of the oldest manuscripts of the four Gospels (
 
 The data is available, using spaCy binary format, in the `datasets` folder.
 
-## Learn more
-The companion paper to the UncCy library is available here as a pre-print:
-
 ## 📖 Citation
 If you use this library, please cite this work using:
 
